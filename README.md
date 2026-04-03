@@ -60,9 +60,7 @@
  ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=poshiyaharsh&theme=algolia&no-frame=true&row=1&column=6" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=poshiyaharsh&theme=onestar&no-frame=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poshiyaharsh&theme=tokyonight" />
 </p>
 
 ---
