@@ -28,6 +28,7 @@
 - 🎓 MCA Student  
 - 💻 Skilled in ASP.NET, PHP, Python  
 - 🚀 Building real-world projects  
+- 📊 Interested in Data Science & AI  
 - 📫 Email: **harshposhiya92@gmail.com**
 
 ---
@@ -43,7 +44,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=poshiyaharsh&theme=github" alt="GitHub profile statistics" loading="lazy" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=poshiyaharsh&theme=github" alt="GitHub profile statistics" />
 </p>
 
 ---
@@ -59,7 +60,9 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=poshiyaharsh&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=poshiyaharsh&theme=tokyonight&no-frame=true&row=1&column=6" />
+  </a>
 </p>
 
 ---
