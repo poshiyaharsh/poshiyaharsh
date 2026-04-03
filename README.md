@@ -26,19 +26,28 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=poshiyaharsh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=poshiyaharsh&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=poshiyaharsh&show_icons=true&count_private=true&theme=radical" alt="Harsh GitHub Stats" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poshiyaharsh&layout=compact&theme=radical" alt="Top Languages" width="400" />
+</p>
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=poshiyaharsh&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=poshiyaharsh&theme=radical&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" width="100%" />
+</p>
 
-<h3 align="center">📈 Contribution Stats</h3>
+<h3 align="center">📈 Streak Stats</h3>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=poshiyaharsh&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poshiyaharsh&theme=radical" alt="GitHub Streak Stats" width="400" />
+</p>
+
+<h3 align="center">💡 Most Used Languages</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poshiyaharsh&show_icons=true&theme=radical&layout=pie" alt="Languages Pie" width="400" />
+</p>
