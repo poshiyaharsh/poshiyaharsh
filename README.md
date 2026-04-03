@@ -28,7 +28,6 @@
 - 🎓 MCA Student  
 - 💻 Skilled in ASP.NET, PHP, Python  
 - 🚀 Building real-world projects  
-- 📊 Interested in Data Science & AI  
 - 📫 Email: **harshposhiya92@gmail.com**
 
 ---
