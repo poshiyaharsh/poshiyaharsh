@@ -57,12 +57,12 @@
 
 ---
 
-## 🏆 GitHub Achievements
+ ## 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=poshiyaharsh&theme=tokyonight&no-frame=true&row=1&column=6" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=poshiyaharsh&theme=algolia&no-frame=true&row=1&column=6" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=poshiyaharsh&theme=onestar&no-frame=true" />
 </p>
 
 ---
