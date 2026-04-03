@@ -26,28 +26,31 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poshiyaharsh&show_icons=true&count_private=true&theme=radical" alt="Harsh GitHub Stats" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poshiyaharsh&layout=compact&theme=radical" alt="Top Languages" width="400" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=poshiyaharsh&show_icons=true&theme=dark&hide_border=true" alt="Harsh GitHub Stats" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=poshiyaharsh&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=poshiyaharsh&theme=radical&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" width="100%" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=poshiyaharsh&theme=dark&row=2&column=3&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</div>
 
 <h3 align="center">📈 Streak Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poshiyaharsh&theme=radical" alt="GitHub Streak Stats" width="400" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=poshiyaharsh&theme=dark" alt="GitHub Streak Stats" />
+</div>
 
 <h3 align="center">💡 Most Used Languages</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poshiyaharsh&show_icons=true&theme=radical&layout=pie" alt="Languages Pie" width="400" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poshiyaharsh&theme=dark&hide_border=true&layout=pie" alt="Languages Pie" />
+</div>
