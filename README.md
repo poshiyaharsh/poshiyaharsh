@@ -27,24 +27,18 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poshiyaharsh&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=poshiyaharsh&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=poshiyaharsh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=poshiyaharsh&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-<h3 align="center">🏆 Achievements & Badges</h3>
+<h3 align="center">🏆 GitHub Trophies</h3>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=poshiyaharsh&theme=onedark&row=2&column=3" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=poshiyaharsh&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 <h3 align="center">📈 Contribution Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=poshiyaharsh&theme=dark" alt="Wakatime Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poshiyaharsh&theme=dracula" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=poshiyaharsh&theme=tokyonight" alt="GitHub Streak" />
 </div>
