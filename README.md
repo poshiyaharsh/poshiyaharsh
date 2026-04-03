@@ -2,7 +2,7 @@
 <h3 align="center">🚀 MCA Student | Full Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=MCA+Student;Full+Stack+Developer;ASP.NET+Developer;Python+Enthusiast;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=MCA+Student;Full+Stack+Developer;ASP.NET+Developer;Python+Enthusiast;Always+Learning" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://www.behance.net/harshposhiya">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/behance.svg" width="48" height="48" />
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/behance.png" />
   </a>
 </p>
 
@@ -28,7 +28,6 @@
 - 🎓 MCA Student  
 - 💻 Skilled in ASP.NET, PHP, Python  
 - 🚀 Building real-world projects  
-- 📊 Interested in Data Science & AI  
 - 📫 Email: **harshposhiya92@gmail.com**
 
 ---
@@ -44,8 +43,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poshiyaharsh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poshiyaharsh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=poshiyaharsh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poshiyaharsh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
 </p>
 
 ---
@@ -61,7 +60,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=poshiyaharsh&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=poshiyaharsh&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" />
 </p>
 
 ---
@@ -69,7 +68,7 @@
 ## 📊 Language Distribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poshiyaharsh&layout=pie&theme=tokyonight&hide_border=true&cache_seconds=1800" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poshiyaharsh&layout=pie&theme=tokyonight&hide_border=true&cache_seconds=86400" width="50%" />
 </p>
 
 ---
