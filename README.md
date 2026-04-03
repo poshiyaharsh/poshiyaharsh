@@ -27,30 +27,34 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poshiyaharsh&show_icons=true&theme=dark&count_private=true" alt="Harsh GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=poshiyaharsh&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/poshiyaharsh">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poshiyaharsh&show_icons=true&count_private=true&theme=github_dark" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/poshiyaharsh">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=poshiyaharsh&layout=compact&theme=github_dark" alt="Top Languages"/>
+  </a>
 </div>
 
 <h3 align="center">🏆 GitHub Achievements</h3>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=poshiyaharsh&theme=onedark&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=poshiyaharsh&theme=github_dark&row=1&column=6&no-frame=false&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 <h3 align="center">📈 GitHub Streak</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poshiyaharsh&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=poshiyaharsh&theme=github_dark&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <h3 align="center">📊 Language Distribution</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poshiyaharsh&theme=dark&layout=donut&langs_count=6" alt="Languages Distribution" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poshiyaharsh&theme=github_dark&layout=pie&hide_border=true" alt="Languages Distribution" />
 </div>
 
 <h3 align="center">🔥 Contribution Graph</h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poshiyaharsh&theme=github-dark&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poshiyaharsh&theme=github-dark&bg_color=0d1117&hide_border=true" alt="Activity Graph" />
 </div>
