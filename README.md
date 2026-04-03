@@ -26,31 +26,31 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<table>
-  <tr>
-    <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=poshiyaharsh&show_icons=true&theme=dark&hide_border=true" alt="Harsh GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=poshiyaharsh&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=poshiyaharsh&theme=dark&row=2&column=3&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poshiyaharsh&show_icons=true&theme=dark&count_private=true" alt="Harsh GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=poshiyaharsh&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
 </div>
 
-<h3 align="center">📈 Streak Stats</h3>
+<h3 align="center">🏆 GitHub Achievements</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=poshiyaharsh&theme=dark" alt="GitHub Streak Stats" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=poshiyaharsh&theme=onedark&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
 </div>
 
-<h3 align="center">💡 Most Used Languages</h3>
+<h3 align="center">📈 GitHub Streak</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poshiyaharsh&theme=dark&hide_border=true&layout=pie" alt="Languages Pie" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poshiyaharsh&theme=dark" alt="GitHub Streak Stats" />
+</div>
+
+<h3 align="center">📊 Language Distribution</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poshiyaharsh&theme=dark&layout=donut&langs_count=6" alt="Languages Distribution" />
+</div>
+
+<h3 align="center">🔥 Contribution Graph</h3>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poshiyaharsh&theme=github-dark&area=true" alt="Activity Graph" />
 </div>
