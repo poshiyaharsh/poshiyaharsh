@@ -44,7 +44,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=poshiyaharsh&theme=github" alt="GitHub profile statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=poshiyaharsh&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=poshiyaharsh&theme=tokyonight" />
 </p>
 
 ---
