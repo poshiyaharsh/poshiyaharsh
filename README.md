@@ -68,14 +68,6 @@
 
 ---
 
-## 📊 Language Distribution
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poshiyaharsh&layout=pie&theme=tokyonight&hide_border=true&cache_seconds=86400" width="50%" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
